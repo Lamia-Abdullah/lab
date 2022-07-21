@@ -1,0 +1,31 @@
+
+body{
+    background-color: black;
+}
+section{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: 50px;
+    color: aliceblue;
+    padding-left: 43%;
+}
+
+button{
+    background-color: white;
+    border-radius: 9px;
+    color:rgb(187, 77, 200);
+    border: solid 1px white;
+    text-decoration:none;
+    cursor:pointer;
+    font-size:1.2em;
+    padding:18px 10px;
+    width:180px;
+    margin: 10px;
+    outline: none;
+   
+    }
